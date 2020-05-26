@@ -1,0 +1,600 @@
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 8170
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 0
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 0
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 12254
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 0
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 8170
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 3590
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 8170
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 12254
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 7424
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 8170
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 12254
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 13316
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 8170
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 12254
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 12272
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 12254
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 13316
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 16098
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 12272
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 13316
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 19420
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 13316
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 16098
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 18420
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 16098
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 19420
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 19180
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 18420
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 19420
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 27108
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 19180
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 19420
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 26300
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 19420
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 27108
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 25526
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 26300
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 27108
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 34316
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 26300
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 27108
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 43480
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 27108
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 34316
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 35264
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 34316
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 43480
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 38164
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 35264
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 43480
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 39344
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 38164
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 43480
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 48654
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 39344
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 43480
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 59954
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 43480
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 48654
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 48612
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 48654
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 59954
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 58690
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 48654
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 59954
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 58604
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 58690
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 59954
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 58690
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 59954
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 60468
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 59954
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 65858
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 60468
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 64060
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 65858
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 71036
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 65858
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 69712
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 71036
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 71236
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 71036
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 91798
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 71236
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 87998
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 74992
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 91798
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 78848
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 87998
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 91798
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 83206
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 87998
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 91798
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 94494
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 87998
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 91798
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 104402
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 91798
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 94494
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 93068
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 94494
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 104402
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 97420
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 94494
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 104402
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 108856
+  },
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 97420
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 104402
+  }
+]
+ITOM :: MID Re-Architecture :: lbObj :: 
+[
+  {
+    "id": "9a1a09d4db8f8050beb14408059619c0",
+    "weight": 100498
+  },
+  {
+    "id": "d9f98198db8f8050beb1440805961940",
+    "weight": 104402
+  },
+  {
+    "id": "882a09d4db8f8050beb14408059619c2",
+    "weight": 108856
+  }
+]

@@ -1,0 +1,91 @@
+Not able to identify in CMDB : UPS-SRV-BLDGA.san1
+Not able to identify in CMDB : 10.53.238.27
+Not able to identify in CMDB : SJC-Seine +1 669 262-1133
+Not able to identify in CMDB : AMS-Appel +31 20 808-4905
+Not able to identify in CMDB : ACC3-A6-MDF1-BLR004
+Not able to identify in CMDB : SYD-Reception
+Not able to identify in CMDB : SYD-Boardroom-Right
+Not able to identify in CMDB : SJC-B2 Wayfinder
+Not able to identify in CMDB : SJC-A4 Wayfinder-Exec Suite
+Not able to identify in CMDB : PAR-Reception
+Not able to identify in CMDB : AMS10-A3-F3-BOSCH
+Not able to identify in CMDB : SYD-Boardroom-Center
+Not able to identify in CMDB : SJC-D1-154-solstice
+Not able to identify in CMDB : SJC-A2 Wayfinder
+Not able to identify in CMDB : AMS-A2-Reception
+Not able to identify in CMDB : SJC-B4 Wayfinder
+Not able to identify in CMDB : HND-Reception
+Not able to identify in CMDB : 10.15.125.58
+Not able to identify in CMDB : Valere: Modular Power Plant
+Not able to identify in CMDB : sjc4tps01.corp.service-now.com
+Not able to identify in CMDB : ZUR-Matterhorn 41 43 508-3833
+Not able to identify in CMDB : SJC-D1-Venkat L.-Solstice
+Not able to identify in CMDB : SJC-D1-ColLab-Solstice
+Not able to identify in CMDB : DUB-St Stephens Green 44 17 8422-2650
+Not able to identify in CMDB : con1-chi1.corp.service-now.com
+Not able to identify in CMDB : ATL1-VE01.corp.service-now.com
+Not able to identify in CMDB : sin4lsmonp01.corp.service-now.com
+Not able to identify in CMDB : LHR10-Piccadilly Circus +44 20 3880-3470
+Not able to identify in CMDB : con2-hnd10.corp
+Not able to identify in CMDB : blr10lsmonp01.corp.service-now.com
+Not able to identify in CMDB : slb0-scp1-prime.illum.io
+Not able to identify in CMDB : n262.meraki.com
+Not able to identify in CMDB : MIS1-B1-MDF1-SJC10
+Not able to identify in CMDB : SYD PR A49 Capitol Square
+Not able to identify in CMDB : SJC-D1-MICHAEL-solstice
+Not able to identify in CMDB : SFO-Reception
+Not able to identify in CMDB : IAD-Reception
+Not able to identify in CMDB : EBC - Right Screen
+Not able to identify in CMDB : spectrum.pitneybowes.com
+Not able to identify in CMDB : sjc4bilistq01.corp.service-now.com
+Not able to identify in CMDB : SIN LV40 Orchard-solstice
+Not able to identify in CMDB : EBC - Left Screen
+Not able to identify in CMDB : ATL1-VE02.corp.service-now.com
+Not able to identify in CMDB : EBC-Welcome-Main Lobby
+Not able to identify in CMDB : direct.dnb.com
+Not able to identify in CMDB : sapqhbpc02.corp.service-now.com
+Not able to identify in CMDB : sjc4bilist01.corp.service-now.com
+Not able to identify in CMDB : uswqwmdmsql01
+Not able to identify in CMDB : rtruc01.hnd10.jp.corp.service-now.com
+Not able to identify in CMDB : usltaniuml02.corp.service-now.com
+Not able to identify in CMDB : SYD- Dee Why +61 2 9254 8931
+Not able to identify in CMDB : LHR10-Training Room 1 +44 20 3880-3478
+Not able to identify in CMDB : DIS1-B17-MDF1-HYD11.corp.service-now.com
+Not able to identify in CMDB : SYD-Kitchen
+Not able to identify in CMDB : SYD-Boardroom-Left
+Not able to identify in CMDB : SJC-A5 Wayfinder
+Not able to identify in CMDB : SJC-A3 Wayfinder
+Not able to identify in CMDB : PAR-Kitchen
+Not able to identify in CMDB : LHR-Reception
+Not able to identify in CMDB : usntp.corp.service-now.com
+Not able to identify in CMDB : sjc4-ddos-nba-1
+Not able to identify in CMDB : SJC-B5 Wayfinder
+Not able to identify in CMDB : SJC-Hook Solstice
+Not able to identify in CMDB : SJC-B3 Wayfinder
+Not able to identify in CMDB : PRNT-SJC-B1-CoitTower
+Not able to identify in CMDB : HYD-Reception
+Not able to identify in CMDB : 10.15.125.57
+Not able to identify in CMDB : ZUR-Mount Pilatus 41 43 508-3835
+Not able to identify in CMDB : DUB-Trinity College 44 20 3014-3778
+Not able to identify in CMDB : SIN-Nick Lambert +65 6809 0935
+Not able to identify in CMDB : DIS1-A7-MDF1-HYD11.corp.service-now.com
+Not able to identify in CMDB : SYD-War Room +61 2 9254 8920
+Not able to identify in CMDB : SJC-Slimbridge +1 669 262-1198
+Not able to identify in CMDB : rtruc01.ams3.nl.servicenow.com
+Not able to identify in CMDB : LHR10-Westminster Bridge +44 20 3880-3116
+Not able to identify in CMDB : LHR10-Training Room 2 +44 20 3880-3471
+Not able to identify in CMDB : LHR10-London Bridge +44 20 3880-3476
+Not able to identify in CMDB : con3-hnd10.corp
+Not able to identify in CMDB : sjc10lsmonp01.corp.service-now.com
+Not able to identify in CMDB : MIS2-B1-MDF1-SJC10
+Not able to identify in CMDB : hyd11wsmonp01.corp.service-now.com
+Not able to identify in CMDB : PST-Reception
+Not able to identify in CMDB : NYC-Reception
+Not able to identify in CMDB : api.servicenow.com
+Not able to identify in CMDB : www.xignite.com
+Not able to identify in CMDB : SIN LV40 Parliament-solstice
+Not able to identify in CMDB : EBC-Reception-Wating-EBC Lobby
+Not able to identify in CMDB : EBC - Center Screen
+Not able to identify in CMDB : cimc-sin20uccesxp03
+Not able to identify in CMDB : www.service-now.com
+Not able to identify in CMDB : ORL-Reception

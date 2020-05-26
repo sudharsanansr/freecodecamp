@@ -1,0 +1,78 @@
+Install the LogicMonitor CMDB Integration plugin from the Store
+(Available in the plugins table)
+
+Instructions For Transfer to Production Instance
+================================================================================
+1. Install LogicMonitor CMDB Integration App from ServiceNow Store
+2. Install Auto Balanced Collector Group Import set from XML file (2 Errors - Accepted both)
+3. Install LM Professional Services Customizations 1 (3 Errors - 2 Accepted, 1 Skip[Scope related])
+	NOTE: If there are 3 errors in this update set, please just remove them.
+4. Install LM Professional Services Customizations 2 (No Errors)
+5. Import data mapping in CSV into outbound attributes table (Import this file: x_lomo_lmcmdbint_outbound_data_mapping.xml)
+6. Import Rest Record (Switch to LogicMonitor CMDB Integration scope and import the REST record)
+6. Create REST Record
+    1. Find Sys_id for PUT HTTP record on table: sys_rest_message_fn_list.do [LM CMDB Intgration - scope]
+    2. Insert  property into global scope 
+      gs.setProperty('x_lomo_lmcmdbint.logicmonitor.rest.putdevice', '<sys_id of REST Record>');
+       var restSysId = gs.getProperty('x_lomo_lmcmdbint.logicmonitor.rest.putdevice');
+       gs.info(restSysId);
+    3. TEST with background script, should return a sys_id
+        restSysId = gs.getProperty('x_lomo_lmcmdbint.logicmonitor.rest.patchdevice');gs.log(restSysId);
+7. In ServiceNow LogicMonitor -> Setup ; Insert setup credentials. (Note: Only Use ServiceNow.logicmonitor.com and create new default group for testing.)
+8. In LogicMonitor -> Setup; Run 1. LM - Collector Import (with Group Id),  2. LM - Collector Groups Import (Run both the scheduled jobs once)
+9. Finish Setup and Installation
+
+***Note: Please refer to the "CHG0390806_ServiceNow UpdateSet v4.zip" for the attachments.
+
+Application Scope: LM ServiceNow Integration
+Update Sets (pushing sequence):
+1. CHG0390806_LMServiceNowIntg_Schema (125 updates)
+2. CHG0390806_CMDBFieldCustomisations_SSR (6 updates)
+3. CHG0390806_STRY1997905_LMServiceNowIntg_piyush_rawat
+4. CHG0390806_STRY1997905_LMServiceNowIntg_piyush_rawat_blankAppVersion
+5. CHG0390806_STRY1997905_LMServiceNowIntg_piyush_rawat_global
+6. CHG0390806_STRY2024793_LMFields_SSR
+7. CHG0390806_STRY2024818_LMPriorityLookUp_SSR
+8. CHG0390806_STRY2020858_LMEnabledSJ_piyush_rawat
+9. CHG0390806_STRY2008534_LMDataImport_SSR
+10. CHG0390806_LM_Defects_SSR [LM ServiceNow Integration]
+
+Application Scope: Global
+1. CHG0390806_STRY1998782_CMDBCustomization_SSR
+2. CHG0390806_STRY2024818_BumpPriorityCatalogItem_PranayK
+3. CHG0390806_STRY2020858_LM_AlertsEnabled_PranayK
+4. CHG0390806_LM_Defects_SSR [LM ServiceNow Integration]
+
+Application Scope: Cloud Management Platform
+1. CHG0390806_STRY2024818_BumpPriorityCatalogItem_PranayK_CMP
+
+Manual Steps (Follow the order)
+a) Import the attached XML files
+CHG0390806_Job1.xml
+CHG0390806_Job2.xml
+CHG0390806_Job3.xml
+CHG0390806_Job4.xml
+CHG0390806_STRY1997905_Group.xml
+CHG0390806_STRY1997905_GroupRoles.xml
+CHG0390806_STRY1997905_GroupUsers.xml
+CHG0390806_STRY1997905_AutomationConfig.xml
+CHG0390806_STRY1997905_AutomationType.xml
+CHG0390806_STRY1998782_AutomationConfig.xml
+CHG0390806_STRY1998782_AutomationType.xml
+CHG0390806_STRY1997905_BaseLineTemplate.xml
+
+b) Fix Script Execution (Run time 10 - 15 mins)
+1. Go to "Load Data" module under "System Import Sets" and click on it
+2. Click on "Existing table" option
+3. Select Import set table as "LM CMDB data import [u_lm_cmdb_data_import]"
+4. Select the "Source of import" as "File"
+5. Attach the file "CHG0390806_STRY2008534_DataSet.xlsx" file and click on submit
+6. Run the fix script "STRY2008534_GenerateJSONPayload".
+7. Wait for the fix script to excute before moving on the next step
+
+
+c) Import the attached XML Files
+CHG0390806_STRY2024813_LMPriorityLookUp.xml
+
+
+6f90284fdb9e2700f720f9c31d9619a2, bb90284fdb9e2700f720f9c31d9619b4, 3790284fdb9e2700f720f9c31d9619d9

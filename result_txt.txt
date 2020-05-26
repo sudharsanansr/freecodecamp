@@ -1,0 +1,45 @@
+{
+  "action" : "incident",
+  "business_service" : "Monitoring (Systems)",
+  "caller_id" : "Solarwinds API",
+  "category" : "IT Business Services",
+  "evt_source" : "SolarWinds_Alert",
+  "impact" : "2",
+  "location" : "Azure West US 2",
+  "opened_by" : "Event Management",
+  "sev" : "0",
+  "short_description" : "Azure West US 2 - CPU load on USW2CTXRDSLIC01.corp.service-now.com is currently 0 %",
+  "subcategory" : "Systems",
+  "u_parent_business_service" : "Monitoring",
+  "urgency" : "2"
+}
+
+{
+  "action" : incident",
+  "business_service" : Monitoring(Systems)",
+  "caller_id" : SolarwindsAPI",
+  "category" : ITBusinessServices",
+  "impact" : 3",
+  "location" : AzureUSWest2",
+  "opened_by" : EventManagement",
+  "sev" : Warning",
+  "short_description" : AzureUSWest2-CPUloadonUSWPWMIDSRV02.corp.service-now.comiscurrently100%",
+  "subcategory" : Systems",
+  "u_parent_business_service" : Monitoring",
+  "urgency" : 3",
+  "automation_count_exceeded" : no"
+}
+
+
+	var alertGr = new GlideRecord('em_alert');
+	alertGr.addEncodedQuery('incident=93cbcbe2db6cd890beb1440805961975');
+	alertGr.query();
+	if(alertGr.next()){
+		var autoLoopGr = new GlideRecord('u_alert_automation_loops');
+		autoLoopGr.addEncodedQuery('u_alert='+alertGr.getDisplayValue());
+		autoLoopGr.next();
+		if(autoLoopGr.next()){
+			var automationNotes = JSON.parse(autoLoopGr.getValue('u_iteration_result'));
+			gs.error('ITOM :: automationNotes :: '+JSON.stringify(automationNotes));
+		}
+	}

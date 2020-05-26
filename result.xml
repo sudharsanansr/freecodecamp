@@ -1,0 +1,30 @@
+<results probe_time="0" result_code="0">
+<result>
+<output>10.127.48.255</output>
+</result>
+<parameters>
+<parameter name="agent" value="mid.server.MIDServer_surfsedev"/>
+<parameter name="response_to" value=""/>
+<parameter name="from_sys_id" value=""/>
+<parameter name="source" value=""/>
+<parameter name="priority" value="2"/>
+<parameter name="agent_correlator" value=""/>
+<parameter name="script" value="new ipNetworkCalculator().execute()"/>
+<parameter name="record_type" value="range_set"/>
+<parameter name="probe" value="cdc70b69db328410ab1041db139619e4"/>
+<parameter name="processed" value=""/>
+<parameter name="error_string" value=""/>
+<parameter name="sys_id" value="7a2564c1dbcfc850ab1041db13961939"/>
+<parameter name="sequence" value="1704f7453060000001"/>
+<parameter name="from_host" value=""/>
+<parameter name="sys_created_on" value="2020-02-16 19:23:08"/>
+<parameter name="ip_network" value="10.127.48.0/24"/>
+<parameter name="sys_domain" value="global"/>
+<parameter name="name" value="getLastNetworkIP"/>
+<parameter name="topic" value="JavascriptProbe"/>
+<parameter name="state" value="ready"/>
+<parameter name="queue" value="output"/>
+<parameter name="range_set_id" value="cc1c27cbdb7ec0109864ac1b1396190d"/>
+<parameter name="ecc_queue" value="7a2564c1dbcfc850ab1041db13961939"/>
+</parameters>
+</results>

@@ -1,0 +1,3 @@
+var text = 'u_cmdb_ci_server_appliance,cmdb_ci_ip_firewall,cmdb_ci_ip_router,cmdb_ci_ip_switch,u_cmdb_ci_netbotz,cmdb_ci_ups,cmdb_ci_pdu,u_cmdb_ci_server_cisco_ucos,cmdb_ci_storage_switch,cmdb_ci_esx_server,cmdb_ci_storage_server,cmdb_ci_linux_server,cmdb_ci_win_server,cmdb_ci_lb_bigip,cmdb_ci_outofband_device,u_cmdb_ci_solstice_device,u_cmdb_ci_network_security_appliance,cmdb_ci_win_cluster,cmdb_ci_windows_cluster,cmdb_ci_video_conference_unit';
+text = text.split(',');
+console.log(text);

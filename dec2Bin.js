@@ -1,0 +1,1 @@
+console.log(("00000000"+parseInt(241).toString(2)).slice(-8))
