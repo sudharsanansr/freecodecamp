@@ -815,8 +815,8 @@ discoveryAutomationUtils.prototype = {
             }
         }
     },
-	
-	restartMIDServices: function() {
+
+    restartMIDServices: function() {
         var flag = this.getParams('ITOM Automation','isMIDServiceRestartEnabled');
         if(flag === 'true' || flag === true) {
             var midServers = this.getDiscoMIDS();
@@ -848,7 +848,6 @@ discoveryAutomationUtils.prototype = {
 		else{
 			midMgmt.restartService(mid);
 		}
-	},
-
+    }, 
     type: 'discoveryAutomationUtils'
 };
