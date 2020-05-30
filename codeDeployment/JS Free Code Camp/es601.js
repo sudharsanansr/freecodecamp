@@ -1,5 +1,5 @@
-var catName;
-var quote;
+let catName;
+let quote;
 function catTalk() {
   "use strict";
 
